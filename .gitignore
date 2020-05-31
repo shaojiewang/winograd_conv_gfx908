@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#python
+*__pycache__/
+*.pyc
